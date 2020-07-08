@@ -1,12 +1,12 @@
-#Spring MVC - Loja de Livros
+# Spring MVC - Loja de Livros
 
 Projeto desenvolvido no curso Spring MVC I e Spring MVC II da Alura Cursos.
 
-#Objetivo
+# Objetivo
 
 O projeto foi desenvolvido com o objetivo de iniciar os estudos na área de Back-end, criando uma base sólida e aprofundando os conhecimentos em Java e Spring.
 
-#Como rodar
+# Como rodar
 
 Link de acesso no heroku:
 https://springmvc-lojalivros.herokuapp.com/
